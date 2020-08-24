@@ -1,0 +1,11 @@
+C:\Users\sonnt\source\repos\SE1304_EOS\Entity\bin\Debug\Entity.dll
+C:\Users\sonnt\source\repos\SE1304_EOS\Entity\bin\Debug\Entity.pdb
+C:\Users\sonnt\source\repos\SE1304_EOS\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\sonnt\source\repos\SE1304_EOS\Entity\obj\Debug\Entity.dll
+C:\Users\sonnt\source\repos\SE1304_EOS\Entity\obj\Debug\Entity.pdb
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\bin\Debug\Entity.dll
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\bin\Debug\Entity.pdb
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\obj\Debug\Entity.dll
+C:\Users\Admin\Downloads\SE1304_ADONETDEMOINSERTS\Entity\obj\Debug\Entity.pdb
